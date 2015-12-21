@@ -5,7 +5,7 @@ launched on December 20, 1990. That makes the web 25 years old since
 it's launch. 
 
 To celebrate the event, I wrote a trivial web server in C. The
-web server is really simply. It always returns the same response.
+web server is really simple. It always returns the same response.
 The code is < 100 lines of C. 
 
 This demonstrates the elegance and beauty of Tim Berners Lee's 
